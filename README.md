@@ -1,75 +1,75 @@
-<h1 align="center">Halo, saya Muhammad Abdul Majid 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Muhammad%20Abdul%20Majid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Web%20%26%20Backend%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  Mahasiswa Teknik Komputer Universitas Diponegoro | Aspiring Software Engineer 🚀
+  <a href="https://www.linkedin.com/in/muhammadabdulmajid4/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Teknik+Komputer+%40+Universitas+Diponegoro;Backend+Developer+Intern+%40+PT+Campus+Digital+Indonesia;Laravel+%7C+Node.js+%7C+MySQL+Enthusiast;Terbuka+untuk+Kolaborasi+%26+Kesempatan+Magang!" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadabdulmajid4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:muhammadabdulmajid474@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mhmdabdulmajid19.github.io"><img src="https://img.shields.io/badge/Portfolio-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mhmdabdulmajid19&style=for-the-badge&color=blueviolet&label=Profile+Views" />
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b333-d61de0e6c8dc.gif">
 
-### 🧑‍💻 Tentang Saya
+## 🧑‍💻 Tentang Saya
 
-- 🎓 Mahasiswa semester 6 **Teknik Komputer**, Universitas Diponegoro (IPK 3.77)
-- 🌱 Sedang fokus mendalami **web development** dengan Laravel & MySQL
-- 💼 Pengalaman magang sebagai **Backend Developer Intern** di PT Campus Digital Indonesia — membangun 31 RESTful API dengan Node.js, Express.js, Prisma ORM & JWT auth
-- 🤝 Aktif berorganisasi di HIMASKOM, Al Muharrik, dan Computer Engineering Research Club (CERC)
-- 📍 Berbasis di Semarang, Jawa Tengah
-- 💬 Terbuka untuk kolaborasi proyek maupun kesempatan magang/kerja di bidang software engineering
+```yaml
+Nama         : Muhammad Abdul Majid
+Lokasi       : Semarang, Jawa Tengah, Indonesia
+Pendidikan   : Teknik Komputer, Universitas Diponegoro (Semester 6 | IPK 3.77)
+Fokus Saat Ini: Web Development — Laravel & MySQL
+Pengalaman   : Backend Developer Intern @ PT Campus Digital Indonesia
+Tujuan       : Menjadi Software Engineer yang adaptif & solutif
+```
 
----
+- 🔭 Sedang membangun proyek berbasis **Laravel** & **MySQL**
+- 🌱 Mendalami **REST API**, **JWT Auth**, dan **Prisma ORM**
+- 💼 Magang sebagai Backend Developer — membangun **31 RESTful API endpoints** dan menguji **35 skenario fungsionalitas**
+- 🤝 Aktif di HIMASKOM, Al Muharrik, dan Computer Engineering Research Club (CERC)
+- 📫 Hubungi saya: **muhammadabdulmajid474@gmail.com**
 
-### 🛠️ Tech Stack
+<br>
 
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-**Backend & Database**
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-
-**Mobile & Lainnya**
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-
----
-
-### 📌 Proyek Unggulan
-
-| Proyek | Deskripsi | Tech Stack |
-|---|---|---|
-| **Website Student Grade Calculator** | Aplikasi web untuk menghitung dan mengelola nilai mahasiswa | Laravel |
-| **Website Peminjaman Buku** | Sistem peminjaman buku dengan pengelolaan database | Laravel, MySQL |
-| **Website Katalog Makanan** | Katalog makanan interaktif berbasis web | Laravel, ReactJS, MySQL |
-| **Website Top Up Game** | Platform top-up untuk game online | PHP |
-| **Aplikasi Inventaris Toko Pakaian** | Aplikasi mobile untuk manajemen stok toko pakaian | Kotlin |
-| **Game Batu Gunting Kertas** | Game sederhana berbasis Python | Python |
-
-> 💡 Pin repository terbaikmu lewat menu **"Customize your pins"** di profil GitHub agar tabel ini konsisten dengan yang ditampilkan.
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmdabdulmajid19&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,express,mysql,prisma,kotlin,java,python,git,figma&theme=dark" />
+</p>
+
+<br>
+
+## 📌 Proyek Unggulan
+
+<p align="center">
+  <a href="https://github.com/mhmdabdulmajid19/Student_Grade_Calculator_Kelompok-7_RPL_B">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdabdulmajid19&repo=Student_Grade_Calculator_Kelompok-7_RPL_B&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/mhmdabdulmajid19/Peminjaman-Buku">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdabdulmajid19&repo=Peminjaman-Buku&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhmdabdulmajid19/TUGAS-MODUL-4-KEL-34">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdabdulmajid19&repo=TUGAS-MODUL-4-KEL-34&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/mhmdabdulmajid19/Batu-Gunting-Kertas-">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdabdulmajid19&repo=Batu-Gunting-Kertas-&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+> 💡 Ganti nama repo di atas jika berbeda dari nama repo asli di akunmu — kartu ini otomatis mengambil data langsung dari repo tersebut.
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmdabdulmajid19&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdabdulmajid19&layout=compact&theme=radical&hide_border=true" />
 </p>
 
@@ -77,8 +77,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdabdulmajid19&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmdabdulmajid19&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <i>"Terus berkembang menjadi engineer yang adaptif dan solutif."</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+> ⚙️ Animasi ular ini butuh setup sekali lewat **GitHub Actions** (gratis & otomatis update). Aku jelasin caranya di bawah kalau kamu mau pasang.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+
+<p align="center"><i>"Terus berkembang menjadi engineer yang adaptif dan solutif."</i></p>
