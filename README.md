@@ -108,7 +108,7 @@
 <!-- 3D CONTRIBUTION GRAPH -->
 <h2 align="center">Grafik Kontribusi 3D</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhmdabdulmajid19/mhmdabdulmajid19/output/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/mhmdabdulmajid19/mhmdabdulmajid19/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <br>
