@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Muhammad%20Abdul%20Majid&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Architecting%20Web,%20AI,%20%26%20IoT%20Solutions&descAlignY=60&descSize=18" />
+  <img width="100%" src="header.svg" />
 </div>
 
 <div align="center">
@@ -93,22 +93,18 @@
 
 <br>
 
-<!-- GITHUB ANALYTICS -->
+<!-- GITHUB ANALYTICS (SELF-HOSTED) -->
 <h2 align="center">GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdabdulmajid19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdabdulmajid19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdabdulmajid19&theme=tokyo-night&hide_border=true&area=true" width="97%" />
+  <img src="metrics.svg" width="100%" />
 </div>
 
 <br>
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- 3D CONTRIBUTION GRAPH (SELF-HOSTED) -->
 <h2 align="center">Grafik Kontribusi 3D</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhmdabdulmajid19/mhmdabdulmajid19/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <br>
@@ -123,4 +119,4 @@
 </div>
 
 <!-- FOOTER SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+<img width="100%" src="footer.svg" />
